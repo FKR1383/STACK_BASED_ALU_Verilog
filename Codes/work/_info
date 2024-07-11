@@ -1,0 +1,428 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Sharif/Term4/DSD/Midterm/Codes
+T_opt
+!s110 1715996188
+V>PXa>:USo0L2e0A:oORbZ1
+04 13 4 work MathSolver_TB fast 0
+=1-5811223d2d4a-6648061b-3a2-12b4
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1715997221
+VMN^iFeG2R?dAZ[?CLUzP[0
+04 14 4 work MathSolver_TB3 fast 0
+=1-5811223d2d4a-66480a25-224-4920
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1715996693
+Vb5o1=]zR4hXIC_[D8`JQT2
+04 14 4 work MathSolver_TB2 fast 0
+=1-5811223d2d4a-66480815-23e-2890
+R1
+R2
+n@_opt2
+R3
+R0
+vInfixToPostfix
+Z4 !s110 1715997212
+!i10b 1
+!s100 KL@K06?PGW=hz>?C^e20k0
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYPJjaQndb:Jc>JS0_X1<e2
+R0
+w1715989245
+8D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix.v
+!i122 1132
+L0 1 144
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z8 !s108 1715997212.000000
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@infix@to@postfix
+vInfixToPostfix_TB
+R4
+!i10b 1
+!s100 NTWc34Pli_WYnX]d[RaCz2
+R5
+I?O]2J2abSe4iYmfVe=>`k3
+R0
+Z10 w1715989378
+Z11 8D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v
+Z12 FD:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v
+!i122 1133
+L0 1 37
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v|
+!i113 0
+R9
+R2
+n@infix@to@postfix_@t@b
+vInfixToPostfix_TB2
+R4
+!i10b 1
+!s100 jf;7lNN<k?EGDodVR:8z>0
+R5
+IIR:YOQD8[TFZ05QBL5gd32
+R0
+Z15 w1715993169
+Z16 8D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v
+Z17 FD:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v
+!i122 1140
+L0 2 40
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z18 !s107 D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v|
+Z19 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v|
+!i113 0
+R9
+R2
+n@infix@to@postfix_@t@b2
+XInfixToPostfix_TB2_v_unit
+Z20 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R4
+V3Tg@MzLd5gC_64GA11od`0
+r1
+!s85 0
+!i10b 1
+!s100 JhehIbh_1_4G93?Cim7A[3
+I3Tg@MzLd5gC_64GA11od`0
+!i103 1
+S1
+R0
+R15
+R16
+R17
+!i122 1140
+L0 41 0
+R7
+31
+R8
+R18
+R19
+!i113 0
+R9
+R2
+n@infix@to@postfix_@t@b2_v_unit
+XInfixToPostfix_TB_v_unit
+R20
+R4
+VDYc?5ZTS_jbMd6DjXjCSk1
+r1
+!s85 0
+!i10b 1
+!s100 [HS3K^I[:PE^Bf5X^Ac;n1
+IDYc?5ZTS_jbMd6DjXjCSk1
+!i103 1
+S1
+R0
+R10
+R11
+R12
+!i122 1133
+L0 37 0
+R7
+31
+R8
+R13
+R14
+!i113 0
+R9
+R2
+n@infix@to@postfix_@t@b_v_unit
+vInfixToPostfixModule
+R4
+!i10b 1
+!s100 ATLHS34;Nj24z7kSP51bo3
+R5
+I0gf]iVW6eZ>XCj?37aA4R3
+R0
+w1715995530
+8D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfixModule.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfixModule.v
+!i122 1136
+L0 1 140
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfixModule.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfixModule.v|
+!i113 0
+R9
+R2
+n@infix@to@postfix@module
+vMathSolver
+R4
+!i10b 1
+!s100 B[D@B2e@Fn5ef_5kn0Nob0
+R5
+IJ]A]@M?OB<PM_KQd<7?cG3
+R0
+w1715996155
+8D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/MathSolver.v
+!i122 1134
+L0 1 61
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver.v|
+!i113 0
+R9
+R2
+n@math@solver
+vMathSolver_TB
+R4
+!i10b 1
+!s100 Q>`YZnVfF@@=Uba@dYnWO1
+R5
+Ij[^8`AJRSgaoN[9j[o]cF1
+R0
+w1715995662
+8D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB.v
+!i122 1135
+L0 1 34
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB.v|
+!i113 0
+R9
+R2
+n@math@solver_@t@b
+vMathSolver_TB2
+R4
+!i10b 1
+!s100 TT1QaAo@PGZ9gVUG7omN>3
+R5
+I5D_V`bEFofRBBe@W_jO>m1
+R0
+w1715996679
+8D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB2.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB2.v
+!i122 1141
+L0 2 38
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB2.v|
+!i113 0
+R9
+R2
+n@math@solver_@t@b2
+vMathSolver_TB3
+R4
+!i10b 1
+!s100 D3ciamKnhc0zc2RMa>I3V0
+R5
+I9>[i<I::EK7XC?RGZ5GaD2
+R0
+w1715997202
+8D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB3.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB3.v
+!i122 1142
+L0 3 51
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB3.v|
+!i113 0
+R9
+R2
+n@math@solver_@t@b3
+vSTACK_BASED_ALU
+R4
+!i10b 1
+!s100 kXdj7j3RC`B`UITILQ:iZ1
+R5
+IYZ=QNeYSiMF2h:H4K9=i00
+R0
+w1715853157
+8D:/Sharif/Term4/DSD/Midterm/Codes/Question1.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/Question1.v
+!i122 1130
+L0 1 74
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/Question1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/Question1.v|
+!i113 0
+R9
+R2
+n@s@t@a@c@k_@b@a@s@e@d_@a@l@u
+vSTACK_BASED_ALU_TB
+!s110 1715978580
+!i10b 1
+!s100 7GKDh_`Q;X9M_C7G1d1@O3
+R5
+IGIWfeOO4F_fNE[:=a4YCJ2
+R0
+w1715850766
+Z21 8D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench.v
+Z22 FD:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench.v
+!i122 895
+L0 1 38
+R6
+R7
+r1
+!s85 0
+31
+!s108 1715978580.000000
+Z23 !s107 D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench.v|
+Z24 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench.v|
+!i113 0
+R9
+R2
+n@s@t@a@c@k_@b@a@s@e@d_@a@l@u_@t@b
+vSTACK_BASED_ALU_TB16
+R4
+!i10b 1
+!s100 N6PK^i:<OI2EMB@3hP1=L0
+R5
+IJ?SGfO>llJUe5A6P6aI[00
+R0
+w1715984132
+8D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench16.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench16.v
+!i122 1138
+Z25 L0 2 31
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench16.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench16.v|
+!i113 0
+R9
+R2
+n@s@t@a@c@k_@b@a@s@e@d_@a@l@u_@t@b16
+vSTACK_BASED_ALU_TB32
+R4
+!i10b 1
+!s100 UDfUg;AkLJR^:?WM2g[=91
+R5
+IV5JRfQZ>CCz2Om56O?bj]1
+R0
+w1715986714
+8D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench32.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench32.v
+!i122 1139
+R25
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench32.v|
+!i113 0
+R9
+R2
+n@s@t@a@c@k_@b@a@s@e@d_@a@l@u_@t@b32
+vSTACK_BASED_ALU_TB4
+R4
+!i10b 1
+!s100 KU[jOkeG]8S::hJLRW9]g3
+R5
+I_Og:oPei`KS]iz9<Wjcj_0
+R0
+w1715982613
+8D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench4.v
+FD:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench4.v
+!i122 1137
+L0 1 30
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench4.v|
+!i113 0
+R9
+R2
+n@s@t@a@c@k_@b@a@s@e@d_@a@l@u_@t@b4
+vSTACK_BASED_ALU_TB8
+R4
+!i10b 1
+!s100 iU@_jA3okPdi6dAdZ74k40
+R5
+I^fF;FB2h=LmHC1D9MM7Fe1
+R0
+w1715983716
+R21
+R22
+!i122 1131
+L0 1 29
+R6
+R7
+r1
+!s85 0
+31
+R8
+R23
+R24
+!i113 0
+R9
+R2
+n@s@t@a@c@k_@b@a@s@e@d_@a@l@u_@t@b8

@@ -1,0 +1,24 @@
+module InfixToPostfix_TB;
+	reg [10:0][7:0] infix;
+	wire [10:0][7:0] postfix;
+	wire [7:0] token;
+	wire [7:0] top;
+	wire CLK;
+	wire [2:0] opcode;
+	wire [7:0]input_data;
+	wire [7:0] output_data;
+	InfixToPostfix #(11, 8) inst(infix, postfix, token, top, CLK, opcode, input_data, output_data);
+	initial begin
+		infix[0] = 'd5;
+		infix[1] = 'd42;
+		infix[2] = 'd40;
+		infix[3] = 'd4;
+		infix[4] = 'd45;
+		infix[5] = 'd2;
+		infix[6] = 'd43;
+		infix[7] = 'd1;
+		infix[8] = 'd41;
+		infix[9] = 'd45;
+		infix[10] = 'd6;
+	end
+endmodule;

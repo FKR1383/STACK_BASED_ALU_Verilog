@@ -1,0 +1,28 @@
+Fri May 17 11:59:51 +0430 2024
+Trace back: can't read "panedwindows(source)": no such element in array
+    while executing
+"::.windowmgr ShowWindowType wave"
+    ("eval" body line 1)
+    invoked from within
+"eval $vsimPriv(windowmgr) ShowWindowType $window_type"
+    while executing
+"view $type"
+    (procedure "toggleview_multiinstanced" line 10)
+    invoked from within
+"toggleview_multiinstanced $type"
+    (procedure "toggleview" line 5)
+    invoked from within
+"toggleview wave"
+    (menu invoke)
+  <2:C:/modeltech64_2020.4/win64/tk8.6/bgerror.tcl:106: ::tkerror {can't read "panedwindows(source)": no such element in array
+    while executing
+"::.windowmgr ShowWindowType wave"
+    ("eval" body line 1)
+    invoked from within
+"eval $vsimPriv(windowmgr) ShowWindowType $window_type"}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "panedwindows(source)": no such element in array
+    while executing
+"::.windowmgr ShowWindowType wave"
+    ("eval" body line 1)
+    invoked from within
+"eval $vsimPriv(windowmgr) ShowWindowType $window_type"}

@@ -1,0 +1,114 @@
+D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench.v {1 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module STACK_BASED_ALU_TB8
+
+Top level modules:
+	STACK_BASED_ALU_TB8
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/Question1.v {1 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/Question1.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module STACK_BASED_ALU
+
+Top level modules:
+	STACK_BASED_ALU
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v {2 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module InfixToPostfix_TB
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v(2): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v(3): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v(37): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB.v(38): (vlog-2284) Empty $unit scope found.
+-- Compiling package InfixToPostfix_TB_v_unit
+
+Top level modules:
+	InfixToPostfix_TB
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench4.v {1 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench4.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module STACK_BASED_ALU_TB4
+
+Top level modules:
+	STACK_BASED_ALU_TB4
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB.v {2 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MathSolver_TB
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB.v(2): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB.v(3): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	MathSolver_TB
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB2.v {2 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB2.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MathSolver_TB2
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB2.v(3): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB2.v(4): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	MathSolver_TB2
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfixModule.v {2 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfixModule.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module InfixToPostfixModule
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfixModule.v(2): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfixModule.v(3): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	InfixToPostfixModule
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB3.v {2 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB3.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MathSolver_TB3
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB3.v(4): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver_TB3.v(5): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	MathSolver_TB3
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench32.v {1 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench32.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module STACK_BASED_ALU_TB32
+
+Top level modules:
+	STACK_BASED_ALU_TB32
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v {2 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module InfixToPostfix_TB2
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v(3): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v(4): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v(41): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix_TB2.v(41): (vlog-2284) Empty $unit scope found.
+-- Compiling package InfixToPostfix_TB2_v_unit
+
+Top level modules:
+	InfixToPostfix_TB2
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver.v {2 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MathSolver
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver.v(3): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/MathSolver.v(5): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	MathSolver
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix.v {2 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module InfixToPostfix
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix.v(2): (vlog-2417) Multiple packed dimensions are not allowed.
+** Warning: D:/Sharif/Term4/DSD/Midterm/Codes/InfixToPostfix.v(3): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	InfixToPostfix
+
+} {} {}} D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench16.v {1 {vlog -work work -vopt -stats=none D:/Sharif/Term4/DSD/Midterm/Codes/Question1_testbench16.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module STACK_BASED_ALU_TB16
+
+Top level modules:
+	STACK_BASED_ALU_TB16
+
+} {} {}}
