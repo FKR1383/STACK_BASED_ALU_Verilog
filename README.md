@@ -4,6 +4,10 @@
 My project is a Stack based ALU and math expression solver using Verilog HDL
 for more details, see Doc.pdf
 
+With this program, you can input an Math expression using sum, subtract and multiply and the program converts it to postfix form and using the Stack based ALU, the result will be calculated.
+
+Some waveform pictures are in Doc.pdf that shows the correctness of program.
+
 ## Tools
 - Modelsim and Verilog HDL
 
