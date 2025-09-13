@@ -8,6 +8,9 @@ With this program, you can input an Math expression using sum, subtract and mult
 
 Some waveform pictures are in Doc.pdf that shows the correctness of program.
 
+<img width="1025" height="477" alt="image" src="https://github.com/user-attachments/assets/11bfb591-9255-474e-9cba-9cbca8f3a7ef" />
+
+
 ## Tools
 - Modelsim and Verilog HDL
 
